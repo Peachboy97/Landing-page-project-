@@ -43,5 +43,10 @@ a {
 }
 
 .right-a {
-    background-color: lightslategray
+    background-color: lightslategray;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
 }

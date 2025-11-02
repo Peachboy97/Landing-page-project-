@@ -1,8 +1,13 @@
 body {
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
 }
 
 .section-a,
-.header {
+.header,
+.footer {
     background: #1f2937
 }

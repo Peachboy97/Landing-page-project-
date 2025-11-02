@@ -4,15 +4,20 @@ body {
     flex-direction: column;
     height: 100vh;
     justify-content: space-between;
+    box-sizing: border-box;
 }
 
-.section-a,
+/* .section-a, */
 .header,
 .footer {
     background: #1f2937;
     padding: 10px;
 }
-
+.section-a {
+    padding: 30px;
+    background: #1f2937;
+    
+}
 .header {
     color: #f9faf8;
     display: flex;
@@ -36,8 +41,9 @@ a {
 
 .bottom-a {
     display: flex;
-    /* width: 600px; */
+    width: 800px;
     justify-content: center;
+    margin-left: 58px;
 }
 
 .left-a {

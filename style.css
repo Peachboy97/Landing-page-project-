@@ -16,14 +16,22 @@ body {
 .header {
     color: #f9faf8;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 
 ul {
     list-style: none;
+    display: flex;
+    gap: 10px;
+    
 }
 
 a {
     text-decoration: none;
     color: #f9faf8;
+}
+
+.bottom-a {
+    display: flex;
 }

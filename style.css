@@ -34,4 +34,14 @@ a {
 
 .bottom-a {
     display: flex;
+    /* width: 600px; */
+    justify-content: center;
+}
+
+.left-a {
+    width: 400px;
+}
+
+.right-a {
+    background-color: lightslategray
 }

@@ -44,10 +44,12 @@ a {
     width: 800px;
     justify-content: center;
     margin-left: 58px;
+    gap: 20px;
 }
 
 .left-a {
     width: 400px;
+    /* padding-right: 20px; */
 }
 
 .right-a {

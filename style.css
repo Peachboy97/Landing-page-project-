@@ -7,7 +7,6 @@ body {
     box-sizing: border-box;
 }
 
-/* .section-a, */
 .header,
 .footer {
     background: #1f2937;
@@ -16,7 +15,6 @@ body {
 .section-a {
     padding: 30px;
     background: #1f2937;
-    /* justify-content: center; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -27,7 +25,11 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    gap: 390px;
+    gap: 310px;
+}
+.header-a {
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 ul {
@@ -42,19 +44,18 @@ ul {
 a {
     text-decoration: none;
     color: #f9faf8;
+    font-size: 18px;
 }
 
 .bottom-a {
     display: flex;
     width: 800px;
     justify-content: center;
-    /* margin-left: 430px; */
     gap: 20px;
 }
 
 .left-a {
     width: 400px;
-    /* padding-right: 20px; */
 }
 
 .right-a {
@@ -63,7 +64,6 @@ a {
     height: 150px;
     width: 400px;
     align-self: center;
-    /* padding-bottom: 50px; */
 }
 .right-a-text{
     display: flex;

@@ -72,11 +72,13 @@ h1 {
     color: #f9faf8;
     font-weight: 900;
     font-size: 48px;
+    margin-bottom: 0px;
 }
 
 #left-a-subtext {
     color: #e5e7eb;
     font-size: 18px;
+    margin-top: 0px;
 }
 
 .main-d {

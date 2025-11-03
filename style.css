@@ -67,6 +67,16 @@ button {
     color: #f9faf8;
 }
 
+h1 {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+#left-a-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
 
 .main-d {
     background-color: #3882f6;

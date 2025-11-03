@@ -55,9 +55,10 @@ a {
 .right-a {
     background-color: lightslategray;
     align-content: center;
-    height: 185px;
+    height: 150px;
     width: 400px;
     align-self: center;
+    /* padding-bottom: 50px; */
 }
 .right-a-text{
     display: flex;
@@ -66,6 +67,11 @@ a {
 button {
     background-color: #3882f6;
     color: #f9faf8;
+    border-radius: 10px;
+    border-color: red;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 6px;
 }
 
 h1 {

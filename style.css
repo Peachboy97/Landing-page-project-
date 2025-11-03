@@ -57,6 +57,7 @@ a {
     align-content: center;
     height: 185px;
     width: 400px;
+    align-self: center;
 }
 .right-a-text{
     display: flex;

@@ -101,6 +101,14 @@ h1 {
     flex-direction: column;
 }
 
+#quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300px;
+    width: 800px;
+    font-style: italic;
+}
+
 .section-d {
     display: flex;
     justify-content: center;

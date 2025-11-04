@@ -5,6 +5,7 @@ body {
     height: 100vh;
     justify-content: space-between;
     box-sizing: border-box;
+    gap: 20px;
 }
 
 .header,
@@ -18,6 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+   
     
 }
 .header {
@@ -92,6 +94,35 @@ h1 {
     margin-top: 0px;
 }
 
+.section-b {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+}
+
+.information-b {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.boxes-container {
+    gap: 18px;
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border-width: 50px;
+    background-color: #f9faf8;
+    border: solid #3882f6;
+    border-radius: 15%;
+}
+
 .section-c {
     background-color: #e5e7eb;
     height: 300px;
@@ -104,14 +135,24 @@ h1 {
 #quote-text {
     font-size: 36px;
     color: #1f2937;
-    font-weight: 300px;
     width: 800px;
     font-style: italic;
+    /* font-weight: 300; */
+    margin-bottom: 0px;
+}
+/* need to commit the changes made to quote and text-c */
+.text-c {
+    color: #1f2937;
+    margin-left: 560px;
+    /* font-weight: 300; */
+    margin-top: 0px;
+    font-size: 20px;
 }
 
 .section-d {
     display: flex;
     justify-content: center;
+    height: 300px;
 }
 
 .main-d {

@@ -98,15 +98,16 @@ h1 {
     height: 450px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
-    padding: 10%;
+    padding-bottom: 80px;
 }
 
 .information-b {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+    margin-bottom: 30px;
 }
 
 .boxes-container {

@@ -102,7 +102,7 @@ h1 {
     display: flex;
     justify-content: space-around;
     width: 700px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 #call-button {
@@ -112,7 +112,16 @@ h1 {
     border-width: 2px;
     border-style: solid;
     border-radius: 8px;
-    
-
 }
 
+.call-text,
+.call-head {
+    color: #f9faf8;
+}
+
+#head-d {
+    margin-bottom: 0px;
+}
+.call-text {
+    margin-top: 0px;
+}

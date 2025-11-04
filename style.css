@@ -73,10 +73,10 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 10px;
-    border-color: red;
     width: 100px;
-    box-sizing: border-box;
     padding: 6px;
+    border: 0px;
+    
 }
 
 h1 {
@@ -103,5 +103,16 @@ h1 {
     justify-content: space-around;
     width: 700px;
     border-radius: 10px;
+}
+
+#call-button {
+    height: 31px;
+    align-self: center;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 8px;
+    
+
 }
 

@@ -79,6 +79,7 @@ a {
 .right-a-text{
     display: flex;
     justify-content: center;
+    color: #e5e7eb;
 }
 button {
     background-color: #3882f6;

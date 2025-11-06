@@ -113,7 +113,7 @@ h1 {
     gap: 18px;
     display: flex;
 }
- /* below is a way i think of getting a text to line up with the box */
+
 .box-test {
     display: flex;
     flex-direction: column;
@@ -125,8 +125,9 @@ h1 {
 .texting-b {
     margin: 0;
     max-width: 110px;
+    margin-top: 10px;
 }
-/* pick up from section b */
+
 
 .box {
     width: 100px;

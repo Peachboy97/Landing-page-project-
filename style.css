@@ -121,7 +121,7 @@ h1 {
 }
 
 .boxes-container {
-    gap: 18px;
+    gap: 45px;
     display: flex;
 }
 
@@ -141,8 +141,8 @@ h1 {
 
 
 .box {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-width: 50px;
     background-color: #f9faf8;
     border: solid #3882f6;
